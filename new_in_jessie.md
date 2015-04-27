@@ -359,7 +359,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 * Mail: Jan Wagner <waja@cyconet.org>  
 
 
-## Cedits (wo ich mich hemmungslos bedient habe)
+## Credits (wo ich mich hemmungslos bedient habe)
 
 * [Vortrag auf der Jessie Release Party Zürich](http://noone.org/talks/whats-new-in-debian/jessie-release-party-zurich.html) von Axel Beckert
 * [Jessie-Vortrag an den Grazer Linuxtagen](http://michael-prokop.at/slides/glt15_debian_jessie_lightning_talk.pdf) von Michael Prokop

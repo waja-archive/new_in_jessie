@@ -5,6 +5,10 @@ title: Was ist neu in Debian 8 Jessie?
 ## Was ist neu in Debian 8 Jessie?
 ### Jan Wagner <waja@cyconet.org>
 
+<br>
+<img style="position: relative; left:800px; top: 175px " src="images/jessie.png" alt="Jessie">
+
+
 ---
 = data-x='1000'
 ## Facts

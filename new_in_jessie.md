@@ -155,7 +155,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="-180"
-## Neue Pakete (1/x)
+## Neue Pakete (1/14)
 ### Paketmanagement
 
 * `needrestart`, `whatmaps`: Interaktives oder automatisches Neustarten von Diensten, deren Bibliotheken aktualisiert wurden. (Ähnlich `checkrestart` aus dem Paket `debian-goodies`, aber als APT-Hook.)
@@ -167,7 +167,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="-90"
-## Neue Pakete (2/x)
+## Neue Pakete (2/14)
 ### Konfigurationsmanagement
 
 * `ansible` und `salt`
@@ -185,7 +185,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="180"
-## Neue Pakete (3/x)
+## Neue Pakete (3/14)
 ### Dateisysteme
 
 * `ceph` (Verteiltes Dateisystem)
@@ -203,7 +203,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="90"
-## Neue Pakete (4/x)
+## Neue Pakete (4/14)
 ### Spezielle Hardware-Unterstützung
 
 * `bumblebee`: Unterstützung für Geräte mit NVIDIA-Optimus-Grafikkarten-System
@@ -216,7 +216,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="-90"
-## Neue Pakete (5/x)
+## Neue Pakete (5/14)
 ### Dokumenten-Renderer
 
 * `mdpress`: Erstellen von Impress.js-basierten Präsentationen im Markdown-Format.
@@ -232,7 +232,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="180"
-## Neue Pakete (6/x)
+## Neue Pakete (6/14)
 ### Paketierung
 
 * `debdry` Halbautomatische Paketierung durch Verhinderung von Wiederholungen (DRY = Don’t Repeat Yourself)
@@ -247,7 +247,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="90"
-## Neue Pakete (7/x)
+## Neue Pakete (7/14)
 ### Server-Software, CGI-Skripte, etc.
 
 * `nghttp2`: HTTP 2.0 Referenz-Implementation
@@ -260,7 +260,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="180"
-## Neue Pakete (8/x)
+## Neue Pakete (8/14)
 ### Webbrowser
 
 * `qupzilla`: Leichtgewichtiger Webbrowser basierend auf der Qt-Variante von WebKit.
@@ -277,7 +277,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="-90"
-## Neue Pakete (9/x)
+## Neue Pakete (9/14)
 ### DNS/DNSSEC/DHCP
 
 * `dhcpy6d`: DHCPv6-Server, der IPv6-Adressen basierend auf MAC-Adressen vergeben kann.
@@ -287,7 +287,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="90"
-## Neue Pakete (10/x)
+## Neue Pakete (10/14)
 ### Monitoring-Software
 
 * `monitoring-plugins` wegen Problemen mit Nagios Enterprises umbenannt aus `nagios-plugins`
@@ -295,7 +295,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="180"
-## Neue Pakete (11/x)
+## Neue Pakete (11/14)
 ### Interessantes für die Kommandozeile
 
 * `undistract-me`: Benachrichtigt via `libnotify`-Popups den Benutzer, wenn langlaufende Kommandos auf der Kommandozeile fertig geworden sind. Funktioniert zur Zeit nur mit der `bash`.
@@ -308,7 +308,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="270"
-## Neue Pakete (12/x)
+## Neue Pakete (12/14)
 ### Chat/IM/Microblogging
 
 * `dianara` und `pumpa`: Client-Programme für das `pump.io`-Netzwerk von Micro-Blogs.
@@ -318,7 +318,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="-90"
-## Neue Pakete (13/x)
+## Neue Pakete (13/14)
 ### Video
 
 * `mpv`: Video-Player basierend auf MPlayer/MPlayer2, aber mit aufgefeilterer Benutzeroberfläche/-schnittstelle.
@@ -329,7 +329,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 ---
 = data-x='1000' data-rotate="-180"
-## Neue Pakete (14/x)
+## Neue Pakete (14/14)
 ### X11
 
 * `winswitch`: Programm zum Starten und Verwalten von Remote-Anwendungen und -Sessions. Kann sowohl ganze Desktop-Sessions (via NX, VNC, RDP), wie auch einzelne Anwendungen (via Xpra, NX und SSH) remote anzeigen.

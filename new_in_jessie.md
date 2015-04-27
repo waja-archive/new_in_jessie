@@ -9,9 +9,9 @@ title: Was ist neu in Debian 8 Jessie?
 = data-x='1000'
 ## Facts
 
+* > 21k Quellpakete
 * 4.841 neue Quellpakete
 * ca. 1300 Quellpakete in Jessie entfernt
-* > 21k Quellpakete
 * zweites Release seit Sarge, was einen kürzeren Freeze als 6 Monate hatte
 
 ---

@@ -41,6 +41,7 @@ Tcl/Tk 8.6
 Apache 2.4  
 Nginx 1.6  
 PHP 5.6  
+OpenJDK 7  
 PostgreSQL 9.4  
 MariaDB 10.0  
 MySQL 5.5 (Unterstützung bis 12.2016)  

@@ -254,7 +254,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 
 * `nghttp2`: HTTP 2.0 Referenz-Implementation
 * `cgit`: Schnelles, in C geschriebenes Web-Frontend für Git-Repositories (ein Ersatz für `gitweb`)
-* `pinto`: Programm zum Betreiben eines eigenen Perl-Modul-Archivs im Stile des *CPAN*.
+<!-- * `pinto`: Programm zum Betreiben eines eigenen Perl-Modul-Archivs im Stile des *CPAN*. -->
 * `calypso`: CalDAV-/CardDAV-Server mit Git-Backend zum Speichern von Kalendereinträgen und Kontaktdaten.
 * `elog`: Elektronisches Online-Logbuch zum Protokollieren von Wartungen, Vorfällen, etc. an Geräten oder Systemen.
 * `owncloud`: Cloud-Speicher für Dateien, Musik, Kontakte, Kalender und vieles mehr

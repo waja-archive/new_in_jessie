@@ -356,7 +356,7 @@ Mit APT 1.0 kam neu `/usr/bin/apt` als Alternative zu `apt-get` und `apt-cache` 
 = data-x='1000'
 ## Slides
 
-* [http://irgendeine.url](http://irgendeine.url)
+* [http://blog.waja.info/publications/new_in_jessie/](http://blog.waja.info/publications/new_in_jessie/)
 * Lizenz: [CC-SA-3.0-DE](https://creativecommons.org/licenses/by-sa/3.0/de/)
 * Mail: Jan Wagner <waja@cyconet.org>  
 

@@ -125,7 +125,7 @@ Neues Standard-Init-System ist Systemd.
 * Cgroups zur Ressourcenkontrolle von Diensten
 * Möglichkeit, Services teilweise zu isolieren
 
-Thanks god we have alternatives!
+Thank god we have alternatives!
 
 * System-V-Init (Paket `sysvinit-core`)
 * Upstart
